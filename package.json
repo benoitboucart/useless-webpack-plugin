@@ -1,6 +1,6 @@
 {
   "name": "useless-webpacking-plugin",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "index.js",
   "repository": "git@github.com:benske/useless-webpacking-plugin.git",
   "author": "Benoît Boucart <benoit@webbb.be>",
