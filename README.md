@@ -1,1 +1,1 @@
-# useless-webpack-plugin
+# useless-webpacking-plugin
